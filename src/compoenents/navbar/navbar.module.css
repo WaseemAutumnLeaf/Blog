@@ -1,0 +1,12 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 20px;
+    list-style-type: none;
+    padding: 1rem;
+}
+
+.navbar li {
+    cursor: pointer;
+}
